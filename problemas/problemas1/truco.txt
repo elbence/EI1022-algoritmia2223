@@ -1,0 +1,3 @@
+Entregable:
+Truco hacer un bf?? pero en lugar d eyield rellenar una matriz??
+Usar ciclos? -> %??
